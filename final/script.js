@@ -1,6 +1,4 @@
-// $("#cart-count").html(localStorage.getItem("cart_number"));
 
-//slides
 var slideIndex = 0;
 showSlides();
 var slides, dots;
